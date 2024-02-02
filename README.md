@@ -1,7 +1,6 @@
-<h1> Hi </h1>
-<img align="right" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5605AQGhMVu5kEBkIA%2Fvideocover-low%2F0%2F1688546078930%3Fe%3D2147483647%26v%3Dbeta%26t%3DNHu6rM8VS8wKtgZErg3zrQRzFrAEWzkfTNzt2CVuczk&tbnid=JMzbU3Er04JcNM&vet=12ahUKEwj99qCI0YyEAxUJUWwGHS-PCS4QMygAegQIARAy..i&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fshinyay_kubernetes-platformengineering-cognitiveload-activity-7082275609443237888-3WH1&docid=Zukds-xH0zNFLM&w=648&h=360&q=heaven%20in%20hell%20kubernetes%20gif&ved=2ahUKEwj99qCI0YyEAxUJUWwGHS-PCS4QMygAegQIARAy/>
-<h3> 👨🏻‍💻 About Me </h3>
-
+<h1> Hii y'all👋 </h1>
+<img align="right" alt="GIF" src="https://tenor.com/view/patriciodsgn279-gif-78974840548065876746" width="500"/>
+<h3> 👨🏻‍💻 About: </h3>
 - 🔭 &nbsp; Learning/exploring CNCF landscape
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; CS Grad (2019)
@@ -12,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 MEVN  
-- 🌐 &nbsp; Full-Stack | VueJS | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
+- 🌐 &nbsp; Full-Stack (MEVN)
 - 🛢 &nbsp; MongoDB | Firebase | Postman
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agamcse9&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
@@ -23,14 +22,7 @@
 
 </br>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamcse9&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/agamcse9/github-readme-stats)
-
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/agam001_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
