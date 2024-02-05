@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Agam</h1>
 <h3 align="center">IT Infrastructure | SysOps</h3>
 
-<p align="left"> <a href="https://twitter.com/agam001" target="blank"><img src="https://img.shields.io/twitter/follow/agam001?logo=twitter&style=for-the-badge" alt="agam001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/agam001" target="blank"><img src="https://img.shields.io/twitter/follow/agam001_?logo=twitter&style=for-the-badge" alt="agam001_" /></a> </p>
 
 - 🔭 I’m currently working on **Azure**
 
