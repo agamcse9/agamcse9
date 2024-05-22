@@ -5,15 +5,15 @@
 
 - 🔭 **Azure Developer Lead** at Azure Developer Community 📍CHD.
 
-- 🌱 I’m currently learning **AWS, Red Hat, CNCF landscape**
+- 🌱 Also, working on **AWS, Red Hat, CNCF landscape**
 
 - 👯 I’m looking to collaborate on **CNCF projects**
 
-- 🤝 I’m looking for help with **opensource contributions**
+- 🤝 Looking for collaboration for working on **opensource contributions**
 
 - 💬 Ask me about **DevOps, IT infrastructure setup and maintainence**
 
-- 📫 How to reach me **agam001_ @ twitter**
+- 📫 How to reach me **@agam001_  (twitter)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
