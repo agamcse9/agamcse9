@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/agam001_" target="blank"><img src="https://img.shields.io/twitter/follow/agam001_?logo=twitter&style=for-the-badge" alt="agam001_" /></a> </p>
 
-- 🔭 I’m currently working on **Azure**
+- 🔭 **Azure Developer Lead** at Azure Developer Community 📍CHD.
 
 - 🌱 I’m currently learning **AWS, Red Hat, CNCF landscape**
 
