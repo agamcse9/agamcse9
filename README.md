@@ -5,11 +5,9 @@
 
 - 🔭 **Azure Developer Lead** at Azure Developer Community 📍CHD.
 
-- 🌱 Also, working on **AWS, Red Hat, CNCF landscape**
+- 🌱 5+ years of experience working on **AWS, RedHat, Azure services, Terraform**
 
-- 👯 I’m looking to collaborate on **CNCF projects**
-
-- 🤝 Looking for collaboration for working on **opensource contributions**
+- 👯 I’m looking forward to collaborate on **Cloud/CNCF/Opensource projects**
 
 - 💬 Ask me about **DevOps, IT infrastructure setup and maintainence**
 
