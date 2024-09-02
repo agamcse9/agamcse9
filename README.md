@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Agam</h1>
-<h3 align="center">IT Infrastructure | SysOps</h3>
+<h3 align="center">Key skills : Azure | AWS | DevOps </h3>
+## Recent Projects:
+<li><a href="https://github.com/agamcse9/azure_terraform_project_1"</a> -Using terraform best practices to create Azure services - RG , VM, AKS cluster, Storage Account, Key vault, SQL DB, VNet, Azure Bastion etc.
 
 <p align="left"> <a href="https://twitter.com/agam001_" target="blank"><img src="https://img.shields.io/twitter/follow/agam001_?logo=twitter&style=for-the-badge" alt="agam001_" /></a> </p>
 
