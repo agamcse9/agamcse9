@@ -5,8 +5,6 @@ Recent Project:
 
 <p align="left"> <a href="https://twitter.com/agam001_" target="blank"><img src="https://img.shields.io/twitter/follow/agam001_?logo=twitter&style=for-the-badge" alt="agam001_" /></a> </p>
 
-- 🔭 **Azure Developer Lead** at Azure Developer Community 📍CHD.
-
 - 🌱 5+ years of experience working on **AWS, RedHat, Azure services, Terraform**
 
 - 👯 I’m looking forward to collaborate on **Cloud/CNCF/Opensource projects**
